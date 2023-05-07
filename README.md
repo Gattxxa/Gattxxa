@@ -1,16 +1,13 @@
 ### Hi there 👋
+<img align="right" src="https://pbs.gattxxa.org/common/readme-230507.webp" style="height: 10rem; object-position: 0 100%;">
 
-<!--
-**Gattxxa/Gattxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+好きなもの作って気分で公開 ദി^._.^₎  
+いろいろやってます。  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <h4>Experienced:</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,ts&theme=light" style="height: 2rem;"><br>
+    <img src="https://skillicons.dev/icons?i=md,html,css,js&theme=light" style="height: 2rem;">
+  </a>
+</html>
