@@ -1,5 +1,6 @@
+<img align="right" src="https://github.com/Mar-7th/StarRailRes/blob/master/image/character_preview/1013.png" style="height: 15rem; object-position: 0 100%;">
+
 ### Hi there 👋
-<img align="right" src="https://pbs.gattxxa.org/common/readme-230507.webp" style="height: 10rem; object-position: 0 100%;">
 
 好きなもの作って気分で公開 ദി^._.^₎  
 いろいろやってます。  
